@@ -23,9 +23,14 @@ There is a significant difference in the predicted GDP growth rates among the US
 
 ------------------------------------------------------------------------------------------------------------------------
 
+### Methodology
 
+This project employs a structured methodology consisting of several key stages: data cleaning, Exploratory Data Analysis (EDA), feature engineering, and feature selection. Following those steps, predictive modeling and analysis is conducted utilizing Logistic Regression and Random Forest algorithms to ensure the target variable perfroms well. Finally, the project culminates with a comprehensive predictive modeling of the selected countries.
 
+------------------------------------------------------------------------------------------------------------------------
 
+**Kaggle Notebook:**
+- [Kaggle.com: rosaaestrada - Predicting 2025 GDP: USA, Finland, and Denmark](https://www.kaggle.com/code/rosaaestrada/predicting-2025-gdp-usa-finland-and-denmark)
 
 
 
