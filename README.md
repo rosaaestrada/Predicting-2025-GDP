@@ -64,7 +64,12 @@ How close the model's predictions are to the actual happiness score
 Indicates the proportion of variance in the happiness scores that is explained by the model
 - A higher R-squared value indicates better model fit to the data
 
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Feature Importance**
+
+Reveals which features (predictors) have the most significant influence on predicting happiness scores
+- The Higher ranked, the better the feature
+
+------------------------------------------------------------------------------------------------------------------------
 
 **USA**
 
@@ -102,21 +107,24 @@ Indicates the proportion of variance in the happiness scores that is explained b
 - Mean Squared Error: 6.285666666666667
 - R-squared (R^2): 0.6507962962962963
 
+**R-Squared:** Represents the proportion of the variance in the dependent variable (GDP growth rates) that is predictable from the independent variables (features from the World Happiness Report) 
+- Denmark consistently has the highest R-squared values from both Logistic Regression (0.9037) and Random Forest (0.6508) models.
+  - This indicates that the model's prediction aligns more closely with the actual GDP growth rates for Denmark compared to the USA and Finland 
+
 ------------------------------------------------------------------------------------------------------------------------
 
+🟤**Research Question:**
 
+Which country, among the USA, Finland, and Denmark, will likely experience higher GDP growth rates in 2025, using historical data from the World Happiness Report's from 2015 to 2024 while leveraging Advanced Machine Learning Algorithms for predictive analysis?
 
+🟤 **Null Hypothesis (H0):**
 
+There is no significant difference in the predicted GDP growth rates among the USA, Finland, and Denmark in 2025, using historical data from the World Happiness Reports from 2015 to 2024.
 
+🟤 **Alternative Hypothesis (H1):**
 
+There is a significant difference in the predicted GDP growth rates among the USA, Finland, and Denmark in 2025, using historical data from the World Happiness Reports from 2015 to 2024.
 
+🟢 Based on the provided data and analysis, Denmark will likely experience higher GDP growth rates in 2025 than the USA and Finland.
 
-
-
-
-
-
-
-
-
-
+🟢 Therefore, we can reject the Null Hypothesis and accept the Alternative Hypothesis, suggesting that there is a significant difference in the predicted GDP growth rates among these countries.
