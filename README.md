@@ -131,3 +131,5 @@ There is a significant difference in the predicted GDP growth rates among the US
 
 
 ![Economy, Life Expectancy and Happiness Score by Year](https://github.com/rosaaestrada/Predicting-2025-GDP-USA-FIN-DEN/blob/main/Visualizations/Economy%20-%20Chart.png?raw=true)
+
+![Economy, Life Expectancy and Happiness Score by Year](https://github.com/rosaaestrada/Predicting-2025-GDP-USA-FIN-DEN/blob/main/Visualizations/Economy%20-%20TreeMap.png?raw=true)
