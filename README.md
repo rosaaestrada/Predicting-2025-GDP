@@ -136,4 +136,4 @@ There is a significant difference in the predicted GDP growth rates among the US
 
 ![Social Support, Freedom, Corruption, and Happiness Score by Year](https://github.com/rosaaestrada/Predicting-2025-GDP-USA-FIN-DEN/blob/main/Visualizations/Social%20Support%20-%20Chart.png?raw=true)
 
-![Social Support, Freedom, Corruption, and Happiness Score by Year]
+![Social Support, Freedom, Corruption, and Happiness Score by Year](https://github.com/rosaaestrada/Predicting-2025-GDP-USA-FIN-DEN/blob/main/Visualizations/Social%20Support%20-%20TreeMap.png?raw=true)
