@@ -128,3 +128,6 @@ There is a significant difference in the predicted GDP growth rates among the US
 🟢 Based on the provided data and analysis, Denmark will likely experience higher GDP growth rates in 2025 than the USA and Finland.
 
 🟢 Therefore, we can reject the Null Hypothesis and accept the Alternative Hypothesis, suggesting that there is a significant difference in the predicted GDP growth rates among these countries.
+
+
+![Economy, Life Expectancy and Happiness Score by Year](https://github.com/rosaaestrada/Predicting-2025-GDP-USA-FIN-DEN/blob/main/Merged%20Countries%20-%20Copy.pdf%20-%20Person%202%20-%20Microsoft%E2%80%8B%20Edge%208_5_2024%203_00_21%20PM.png?raw=true)
