@@ -1,5 +1,7 @@
 # Predicting 2025 GDP: USA, Finland, and Denmark
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/rosaaestrada/predicting-2025-gdp-usa-finland-and-denmark)
+
 ## Data
 **World Happiness Report:** Located on 
 - [Kaggle.com - World Happiness Report up to 2022](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
