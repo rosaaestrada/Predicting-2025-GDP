@@ -6,7 +6,7 @@
 
 <img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Comparison%20of%20metrics%20across%20all%20countries.png?raw=true" alt= "" width= "" height="">
 
-<img src= "" alt= "" width= "500" height="350">
+<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Summary%20plot%20of%20model%20perfromance.png?raw=true" alt= "" width= "" height="">
 
 
 
