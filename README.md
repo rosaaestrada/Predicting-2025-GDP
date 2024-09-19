@@ -6,8 +6,13 @@
 In this project I wanted to predict which country is likely to experience higher GDP growth rates in 2025 using Logistic Regression, Random Forest, and R-squared.
 
 ## Built with: 
-- Python=
-- 
+- Python= 3.9.13
+- Pandas= 1.4.4
+- NumPy= 1.21.5
+- Seaborn= 0.11.2
+- Matplotlib= 3.5.2
+- Plotly Express= 5.9.0
+- Scikit-Learn= 1.0.2
 
 ## Files:
 - **Data** - Contains raw data and preprocessed data
