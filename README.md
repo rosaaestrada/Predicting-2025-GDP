@@ -5,6 +5,20 @@
 ## Purpose
 In this project I wanted to predict which country is likely to experience higher GDP growth rates in 2025 using Logistic Regression, Random Forest, and R-squared.
 
+## Built with: 
+- Python=
+- 
+
+## Files:
+- Data - Contains raw data and preprocessed data
+- Jupyter Notebook - The full source code along with explanations as a .ipynb file
+- Python Code - The full source code along with explanations as a .py file
+- Src - location on where the data was collected from
+- Results - Summary Statistics, visualizations, and final evaluation of the project
+
+
+
+
 
 
 ## Data
@@ -14,7 +28,7 @@ In this project I wanted to predict which country is likely to experience higher
 - [Kaggle.com - World Happiness Report 2024](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2024)
 
 ------------------------------------------------------------------------------------------------------------------------
-### Porject overview and Objectives
+### Project overview and Objectives
 
 🟤**Research Question:**
 
