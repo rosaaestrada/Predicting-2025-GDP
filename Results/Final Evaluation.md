@@ -12,3 +12,6 @@ R-squared (R^2): 0.983&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R-squared (R^2): 0.987
 
 - This indicates that the model's prediction aligns more closely with the actual GDP growth rates for Denmark compared to the USA and Finland
 
+**Logistic Regression for Denmark**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Random Forest for Denmark**
+
+R-squared (R^2): 0.9037054188798239&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R-squared (R^2): 0.6507962962962963
