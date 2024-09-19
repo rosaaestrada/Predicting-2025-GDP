@@ -13,7 +13,7 @@
 <img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Predicted%20vs%20actual.png?raw=true" alt= "Predicted vs. Actual Plot for Random Forest Model" width= "" height="">
 
 
-<img src= "" alt= "Residual Plot for Random Forest Model" width= "" height="">
+<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Residual%20plot.png?raw=true" alt= "Residual Plot for Random Forest Model" width= "" height="">
 
 
 
