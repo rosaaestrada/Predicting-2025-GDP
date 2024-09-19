@@ -33,5 +33,13 @@ Evaluation metrics for Random Forest
 - R-squared (R^2): 0.6770166666666667
 
 ### DENMARK
+Evaluation metrics for Logistic Regression
+- Mean Absolute Error: 1.1684256088259053
+- Mean Squared Error: 1.73330246016317
+- R-squared (R^2): 0.9037054188798239
 
+Evaluation metrics for Random Forest
+- Mean Absolute Error: 2.2866666666666666
+- Mean Squared Error: 6.285666666666667
+- R-squared (R^2): 0.6507962962962963
 
