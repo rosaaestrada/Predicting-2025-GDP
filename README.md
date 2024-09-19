@@ -15,8 +15,7 @@ In this project I wanted to predict which country is likely to experience higher
 - Scikit-Learn= 1.0.2
 
 ## Files:
-- **Data** - Contains raw data and preprocessed data
+- **Data** - Contains raw data, preprocessed data, and the location where the data was collected
 - **Jupyter Notebook** - The full source code along with explanations as a .ipynb file
 - **Python Code** - The full source code along with explanations as a .py file
-- **Src** - location on where the data was collected from
 - **Results** - Summary Statistics, visualizations, and final evaluation of the project
