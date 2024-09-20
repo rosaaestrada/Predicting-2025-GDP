@@ -1,5 +1,5 @@
 ### Comparison of R-squared values for Logistic Regression and Random Forest Models for the Target Variable Economy (GDP)
-<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Comparison%20of%20R-squared%20for%20LR%20RF.png?raw=true" alt= "Comparison of R-squared values for Logistic Regression and Random Forest Models" width= "500" height= "350"> 
+<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Comparison%20of%20R-squared%20for%20LR%20RF.png?raw=true" alt= "Comparison of R-squared values for Logistic Regression and Random Forest Models" width= "" height= ""> 
 
 - This chart shows that both models have high predictive accuracy, with Random Forest (R^2 = 0.987) slightly out performing Logistic Regression (R^2 = 0.983) in explaining GDP growth rate variance. 
 
