@@ -4,17 +4,12 @@
 - This chart shows that both models have high predictive accuracy, with Random Forest (R^2 = 0.987) slightly out performing Logistic Regression (R^2 = 0.983) in explaining GDP growth rate variance. 
 
 
-### Model Perfromance for Denmark: Logistic Regression vs. Random Forest
-<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Model%20performance%20for%20denmark.png?raw=true" alt= "Model Perfromance for Denmark" width= "500" height="350">
-
-- The Logistic Regression model outperfroms the Random Forest model in terms of R-squared values for Denmark. 
-
-
 ### Comparison of Metrics Across All Countries
 <img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Comparison%20of%20metrics%20across%20all%20countries.png?raw=true" alt= "Comparison of Metrics Across All Countries" width= "" height="">
-- provides a comparative view of all metrics (MAE, MSE, R-squared) across USA, Finland, Denmark. 
 
-- 
+- Logistic Regression consistently outperforms Random Forest in terms of R-aquared values for all three countries.
+- For Denmark, the Logistic Regression model achieves an impressive R-square value of 0.9037, while Random Forest falls behind at 0.6508.
+
 
 ### Summary Plot of Model Perfromance Across All countries
 <img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Summary%20plot%20of%20model%20perfromance.png?raw=true" alt= "Summary Plot of Model Perfromance Across All countries" width= "" height="">
