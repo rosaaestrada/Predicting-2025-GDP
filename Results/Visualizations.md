@@ -6,7 +6,8 @@
 
 ### Model Perfromance for Denmark: Logistic Regression vs. Random Forest
 <img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Model%20performance%20for%20denmark.png?raw=true" alt= "Model Perfromance for Denmark" width= "500" height="350">
-- This comparison emphasizes why Denmark is likely to experience higher GDP growth.
+
+- The Logistic Regression model outperfroms the Random Forest model in terms of R-squared values for Denmark. 
 
 
 ### Comparison of Metrics Across All Countries
