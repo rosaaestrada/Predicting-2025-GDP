@@ -26,22 +26,14 @@
   - Happiness score
 
 
-### Correlation Heatmap for USA
-<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Corr%20usa.png?raw=true" alt= "Correlation Heatmap for USA" width= "" height="">
+### Correlation Heatmap for USA, Finland, and Denmark
+<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Corr%20usa.png?raw=true" alt= "Correlation Heatmap for USA" width= "" height=""> <img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Corr%20finland.png?raw=true" alt= "Correlation Heatmap for Finland" width= "" height=""> <img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Corr%20denmark.png?raw=true" alt= "Correlation Heatmap for Denmark" width= "" height="">
 
-- The heatmap represents the correlation matrix for various features related to happiness metrics in the USA.
+- The heatmaps represents the correlation matrix for various features related to happiness metrics in the USA, Finland, and Denmark.
 - The darker shades of blue and green indicate stronger negative and positve correletions.
-- Happiness rank, social support, and happiness score are positively correlated with each other, while corruption perception shows a negative corelation with other factors. 
+- For all three heatmaps - Happiness rank, social support, and happiness score are positively correlated with each other, while corruption perception shows a negative corelation with other factors. 
 
 
-### Correlation Heatmap for Finland
-<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Corr%20finland.png?raw=true" alt= "Correlation Heatmap for Finland" width= "" height="">
-
-
-### Correlation Heatmap for Denmark
-<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Corr%20denmark.png?raw=true" alt= "Correlation Heatmap for Denmark" width= "500" height="350">
-
-&nbsp;
 
 
 
