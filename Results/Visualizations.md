@@ -14,7 +14,7 @@
 ### Residual Plot for Random Forest Model
 <img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Residual%20plot.png?raw=true" alt= "Residual Plot for Random Forest Model" width= "" height="">
 
-- As the actual economy increases, the residuals also tend to increase. In other words, at higher actual economy values, this Random Forest model tens to underpredict.
+- As the actual economy increases, the residuals also tend to increase. In other words, at higher actual economy values, this Random Forest model tends to underpredict.
 
 
 ### Feature importance
