@@ -2,6 +2,8 @@
 
 [Kaggle.com: rosaaestrada - Predicting 2025 GDP: USA, Finland, and Denmark](https://www.kaggle.com/code/rosaaestrada/predicting-2025-gdp-usa-finland-and-denmark)
 
+[public.tableau.com: rosa.estrada6858 - Evaluating GDP Growth Predictions: R-squared Metrics and Insights](https://public.tableau.com/views/EvaluatingGDPGrowthPredictionsR-squaredMetricsandInsights/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/R-squared%20across%20all%20countries.png?raw=true" alt= "Comparison of metrics across all countries" wight= "400" height= "400">
 
 ## Purpose
