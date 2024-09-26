@@ -2,7 +2,7 @@
 
 [Kaggle.com: rosaaestrada - Predicting 2025 GDP: USA, Finland, and Denmark](https://www.kaggle.com/code/rosaaestrada/predicting-2025-gdp-usa-finland-and-denmark)
 
-[public.tableau.com: rosa.estrada6858 - Happiness Trends for Denmark, Finland, and USA](https://public.tableau.com/views/HappinessTrendsforDenmarkFinlandandUSA/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[public.tableau.com: rosaestrada - Happiness Trends for Denmark, Finland, and USA](https://public.tableau.com/views/HappinessTrendsforDenmarkFinlandandUSA/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/R-squared%20across%20all%20countries.png?raw=true" alt= "Comparison of metrics across all countries" wight= "400" height= "400">
 
