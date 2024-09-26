@@ -1,6 +1,6 @@
 # Visualizations
 
-[public.tableau.com: rosa.estrada6858 - Happiness Trends for Denmark, Finland, and USA](https://public.tableau.com/views/HappinessTrendsforDenmarkFinlandandUSA/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[public.tableau.com: rosaestrada - Happiness Trends for Denmark, Finland, and USA](https://public.tableau.com/views/HappinessTrendsforDenmarkFinlandandUSA/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Comparison of R-squared values for Logistic Regression and Random Forest Models for the Target Variable Economy (GDP)
 <img src= "https://github.com/rosaaestrada/Predicting-2025-GDP/blob/main/Results/Images/Comparison%20of%20R-squared%20for%20LR%20RF.png?raw=true" alt= "Comparison of R-squared values for Logistic Regression and Random Forest Models" width= "" height= ""> 
